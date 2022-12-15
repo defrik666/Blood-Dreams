@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: b05efc51cb8eeaa4eabeba672db482c5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - metalHitEffect: {fileID: 1000010355441670, guid: 02a509a7fa70ed740ba4197e20c5d32d,
+      type: 3}
+  - sandHitEffect: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+      type: 3}
+  - stoneHitEffect: {fileID: 1000010844420130, guid: 4edabb1c0dde62743b137378c7d22980,
+      type: 3}
+  - waterLeakEffect: {fileID: 1277954026192068, guid: 8c0568c457f38824d8649f26f2363927,
+      type: 3}
+  - waterLeakExtinguishEffect: {fileID: 1277954026192068, guid: 8c0568c457f38824d8649f26f2363927,
+      type: 3}
+  - woodHitEffect: {fileID: 1000011190285628, guid: beb3acff7ab73944fb8f470f24d74ed3,
+      type: 3}
+  - WeaponThrow: {instanceID: 0}
+  - animatorControler: {instanceID: 0}
+  - rigControler: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
